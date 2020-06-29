@@ -9,7 +9,6 @@ host = "127.0.0.1"
 port = 9099
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.settimeout(2)
-print(s)
 input_file = open(sys.argv[1])
 porthttp = "80"
 try :
@@ -19,7 +18,6 @@ except :
 	print ('[!] Server is down [!]')
 	sys.exit()
 def loligang(input_file):
-	print(input_file)
 	for i in input_file.readlines():
 		ip = i.strip("\n")
 		try:
