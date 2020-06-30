@@ -74,7 +74,7 @@ def reply (server_socket, sock, message):
             message=message.strip()
             socket.send(message+'\n')
             print(message)
-            open("server/servers.html", "a").write(message + "\n")
+            open("servers/servers.html", "a").write(message + "\n")
         except :
                 # broken socket connection
             socket.close()
