@@ -1,3 +1,3 @@
 # Odus
-Dont worry about it
 work in progress
+def not a botnet
