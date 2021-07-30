@@ -25,7 +25,7 @@ def yadigg():
             ipf.write(ip +  '\n')
             ipf.close()
             passwordFile = 'credentials.txt'
-            passList = open(passwordFile, 'r')
+            passList = open(passwordFile, 'r') #someone fix this it may be bc threads and a none stop loop
             for line in passList.readlines():
                 userName = line.split(':')[0]
                 passWord = line.split(':')[1].strip('\r').strip('\n')
