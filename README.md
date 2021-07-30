@@ -1,3 +1,3 @@
 # Odus
 work in progress
-def not a botnet
+\n def not botnet
