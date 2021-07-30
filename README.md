@@ -1,3 +1,10 @@
 # Odus
 work in progress
-\n def not botnet
+
+
+
+ main_scan.sh is the loop
+ 
+ 
+ 
+ todo: add CNC server.
