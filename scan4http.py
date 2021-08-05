@@ -1,7 +1,7 @@
 import sys 
 import random  
 import pickle
-print "\n +-+-+-+==+-+-+-+=free shmurda=+-+-+-+==+-+-+-+"
+print "\n +-+-+-+==+-+-+-+=Windows Zmap 80=+-+-+-+==+-+-+-+" #ikik it aint zmap but its a sub for it
 import requests
 import threading
 import os, re, time, socket
