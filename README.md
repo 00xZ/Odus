@@ -2,7 +2,7 @@
 work in progress (Proof Of Concept)
 
 
-LEGAL DISCLAIMER: FUCK 12
+LEGAL DISCLAIMER: *
 
 
  main_scan.sh is the loop
